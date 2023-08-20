@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STM32_AD5933_USB", "STM32_AD5933_USB.vcxproj", "{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Debug|x64.ActiveCfg = Debug|x64
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Debug|x64.Build.0 = Debug|x64
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Debug|x86.Build.0 = Debug|Win32
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Release|x64.ActiveCfg = Release|x64
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Release|x64.Build.0 = Release|x64
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Release|x86.ActiveCfg = Release|Win32
+		{560FC61A-08B8-4A2A-AFBB-D61EF66798AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324B30D4-6FDC-4AC9-B995-BFE8DF09B9A3}
+	EndGlobalSection
+EndGlobal
